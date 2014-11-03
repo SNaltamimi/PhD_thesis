@@ -1,0 +1,14 @@
+.DS_Store
+CA_Paper.pdf
+*.gz
+*.aux
+*.lof
+*.log
+*.toc
+*.blg
+*.dvi
+*.bbl
+*.backup
+*.*~
+*~
+Data
