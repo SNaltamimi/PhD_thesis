@@ -1,0 +1,23 @@
+\contentsline {chapter}{\numberline {1}First Year report}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Literature Review:}{1}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Health Information Technologies (HIS):}{1}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Electronic Medical Records (EMRs) systems:}{2}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Mobile Health (mHealth):}{3}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Cloud computing in Healthcare}{4}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Internet of Thing (IoT) in Healthcare}{5}{subsection.1.2.5}
+\contentsline {section}{\numberline {1.3}Information Security Managment(ISM) In Healthcare:}{5}{section.1.3}
+\contentsline {section}{\numberline {1.4}Privacy In Healthcare:}{7}{section.1.4}
+\contentsline {section}{\numberline {1.5}Pilot study (First Year Experiment):}{10}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Study Background:}{10}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Study problem:}{12}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Theoretical Background:}{12}{subsection.1.5.3}
+\contentsline {subsubsection}{Neutralisation Theory:}{12}{section*.4}
+\contentsline {subsection}{\numberline {1.5.4}Study Model and hypotheses:}{15}{subsection.1.5.4}
+\contentsline {subsection}{\numberline {1.5.5}Study Methodology:}{15}{subsection.1.5.5}
+\contentsline {subsection}{\numberline {1.5.6}Data Analisis and discussion:}{15}{subsection.1.5.6}
+\contentsline {subsection}{\numberline {1.5.7}Study Conclusion:}{15}{subsection.1.5.7}
+\contentsline {section}{\numberline {1.6}Plan and Future Work:}{15}{section.1.6}
+\contentsline {section}{\numberline {1.7}Activities in First Year:}{15}{section.1.7}
+\contentsline {section}{\numberline {1.8}First Year Summary:}{15}{section.1.8}
+\contentsline {chapter}{Bibliography}{15}{section.1.8}

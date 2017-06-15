@@ -1,0 +1,502 @@
+\begin{thebibliography}{61}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[()]{}
+full-text.
+
+\bibitem[Abdollahzadehgan et~al.(2013)Abdollahzadehgan, {Che Hussin}, Gohary,
+  and Amini]{Abdollahzadehgan2013}
+Azam Abdollahzadehgan, Ab~Razak {Che Hussin}, Marjan~Moshfegh Gohary, and
+  Mahyar Amini.
+\newblock {The Organizational Critical Success Factors for Adopting Cloud
+  Computing in SMEs}.
+\newblock \emph{Journal of Information Systems Research and Innovation},
+  4\penalty0 (1):\penalty0 67--74, 2013.
+\newblock ISSN 2289-1358.
+
+\bibitem[Ahuja et~al.(2012)Ahuja, Mani, and Zambrano]{ahuja2012survey}
+Sanjay~P Ahuja, Sindhu Mani, and Jesus Zambrano.
+\newblock {A survey of the state of cloud computing in healthcare}.
+\newblock \emph{Network and Communication Technologies}, 1\penalty0
+  (2):\penalty0 p12, 2012.
+
+\bibitem[Akowuah et~al.(2013)Akowuah, Yuan, Xu, and Wang]{Akowuah2013}
+F~Akowuah, X~Yuan, J~Xu, and H~Wang.
+\newblock {A survey of security standards applicable to health information
+  systems}.
+\newblock \emph{International Journal of Information Security and Privacy},
+  7\penalty0 (4):\penalty0 22--36, 2013.
+\newblock ISSN 19301650 (ISSN).
+\newblock \doi{10.4018/ijisp.2013100103}.
+\newblock URL
+  \url{https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945184880{\&}partnerID=40{\&}md5=6f3ace7594a81b127b494447eebe0ab1}.
+
+\bibitem[Andriole(2014)]{Andriole2014a}
+Katherine~P. Andriole.
+\newblock {Security of electronic medical information and patient privacy: What
+  you need to know}.
+\newblock \emph{Journal of the American College of Radiology}, 11\penalty0
+  (12):\penalty0 1212--1216, 2014.
+\newblock URL \url{http://dx.doi.org/10.1016/j.jacr.2014.09.011}.
+
+\bibitem[Ashenden(2008)]{Ashenden2008}
+Debi Ashenden.
+\newblock {Information Security management : A human challenge ?}
+\newblock \emph{Information Security Technical Report}, 13\penalty0
+  (4):\penalty0 195--201, 2008.
+\newblock ISSN 1363-4127.
+\newblock \doi{10.1016/j.istr.2008.10.006}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.istr.2008.10.006}.
+
+\bibitem[Barlow et~al.(2013)Barlow, Warkentin, Ormond, and Dennis]{Barlow2013}
+Jordan~B Barlow, Merrill Warkentin, Dustin Ormond, and Alan~R Dennis.
+\newblock {Don't make excuses! Discouraging neutralization to reduce IT policy
+  violation}.
+\newblock 2013.
+\newblock \doi{10.1016/j.cose.2013.05.006}.
+\newblock URL
+  \url{http://ac.els-cdn.com/S0167404813000898/1-s2.0-S0167404813000898-main.pdf?{\_}tid=7323926e-250f-11e7-b0b9-00000aab0f6b{\&}acdnat=1492613574{\_}70b359db1f35b3b04587c787538336af}.
+
+\bibitem[Bensefia and Zarrad(2014)]{Bensefia2014}
+Ameur Bensefia and Anis Zarrad.
+\newblock {A Proposed Layered Architecture to Maintain Privacy Issues in
+  Electronic Medical Records}.
+\newblock \emph{E-Health Telecommunication Systems and Networks}, 03\penalty0
+  (04):\penalty0 43--49, 2014.
+\newblock ISSN 2167-9517.
+\newblock \doi{10.4236/etsn.2014.34006}.
+\newblock URL
+  \url{http://www.scirp.org/journal/PaperDownload.aspx?DOI=10.4236/etsn.2014.34006}.
+
+\bibitem[BSI(2014)]{BSI2014}
+BSI.
+\newblock {BSI Standards Publication Information technology — Security
+  techniques — Information security management systems — Overview and
+  vocabulary}.
+\newblock \penalty0 (September), 2014.
+
+\bibitem[Buyya et~al.(2009)Buyya, Buyya, Yeo, Yeo, Venugopal, Venugopal,
+  Broberg, Broberg, Brandic, and Brandic]{Buyya2009}
+Rajkumar Buyya, Rajkumar Buyya, Chee~Shin Yeo, Chee~Shin Yeo, Srikumar
+  Venugopal, Srikumar Venugopal, James Broberg, James Broberg, Ivona Brandic,
+  and Ivona Brandic.
+\newblock {Cloud computing and emerging IT platforms: Vision, hype, and reality
+  for delivering computing as the 5th utility}.
+\newblock \emph{Future Generation Computer Systems}, 25\penalty0 (June
+  2009):\penalty0 17, 2009.
+\newblock ISSN 0167-739.
+\newblock \doi{10.1016/j.future.2008.12.001}.
+\newblock URL \url{http://portal.acm.org/citation.cfm?id=1528937.1529211}.
+
+\bibitem[Care(2006)]{Care2006}
+Medical Care.
+\newblock {Annals of Internal Medicine Improving Patient Care Systematic Review
+  : Impact of Health Information Technology on}.
+\newblock \emph{Most}, 144:\penalty0 742--752, 2006.
+\newblock ISSN 15393704.
+\newblock \doi{0000605-200605160-00125 [pii]}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/16702590}.
+
+\bibitem[Chang et~al.(2013)Chang, Hai, Seo, Lee, and Yoon]{Chang2013}
+Byeong~Yun Chang, Pham~Hoang Hai, Dong~Won Seo, Jong~Hun Lee, and Seung~Hyun
+  Yoon.
+\newblock {The determinant of adoption in cloud computing in Vietnam}.
+\newblock In \emph{2013 International Conference on Computing, Management and
+  Telecommunications, ComManTel 2013}, pages 407--409, 2013.
+\newblock ISBN 9781467320870.
+\newblock \doi{10.1109/ComManTel.2013.6482429}.
+
+\bibitem[Chen et~al.(2012)Chen, Ramamurthy, and Wen]{Chen2012}
+Yan Chen, K.~Ramamurthy, and Kuang-Wei Wen.
+\newblock {Organizations' Information Security Policy Compliance: Stick or
+  Carrot Approach?}
+\newblock \emph{Journal of Management Information Systems}, 29\penalty0
+  (3):\penalty0 157--188, 2012.
+\newblock ISSN 0742-1222.
+\newblock \doi{10.2753/MIS0742-1222290305}.
+
+\bibitem[Culnan et~al.(2009)Culnan, Williams, and Williams]{Culnan2016}
+Mary~J Culnan, Cynthia~Clark Williams, and Cynthia~Clark Williams.
+\newblock {Quarterly {\^{}}{\^{}}{\^{}} m}.
+\newblock 33\penalty0 (4):\penalty0 673--687, 2009.
+
+\bibitem[{D 'arcy} and Hovav()]{Darcy}
+John {D 'arcy} and Anat Hovav.
+\newblock {Does One Size Fit All? Examining the Differential Effects of IS
+  Security Countermeasures}.
+\newblock \doi{10.1007/s10551-008-9909-7}.
+
+\bibitem[Deutsch et~al.(2010)Deutsch, Duftschmid, and Dorda]{Deutsch2010}
+Eva Deutsch, Georg Duftschmid, and Wolfgang Dorda.
+\newblock {Critical areas of national electronic health record programs. Is our
+  focus correct?}
+\newblock \emph{International Journal of Medical Informatics}, 79:\penalty0
+  211--222, 2010.
+\newblock ISSN 1872-8243.
+\newblock \doi{10.1016/j.ijmedinf.2009.12.002}.
+
+\bibitem[ENISA(2006)]{ENISA2006}
+ENISA.
+\newblock {Risk Management : Implementation principles and Inventories for Risk
+  Management / Risk Assessment methods and tools}.
+\newblock \penalty0 (June):\penalty0 177, 2006.
+\newblock URL
+  \url{https://www.enisa.europa.eu/activities/risk-management/current-risk/risk-management-inventory/files/deliverables/risk-management-principles-and-inventories-for-risk-management-risk-assessment-methods-and-tools}.
+
+\bibitem[Grindle et~al.(2013)Grindle, Kavathekar, and Wan]{Grindle2013}
+Mark Grindle, Jitendra Kavathekar, and Dadong Wan.
+\newblock {A new era for the healthcare industry - Cloud computing changes the
+  game}.
+\newblock \emph{Accenture}, page~24, 2013.
+\newblock URL
+  \url{http://www.accenture.com/us-en/Pages/insight-healthcare-industry-cloud-computing.aspx}.
+
+\bibitem[Hamid and Zeki(2014)]{Hamid2014}
+Habiba Hamid and Akram~M. Zeki.
+\newblock {Users' awareness of and perception on information security issues: A
+  case study of kulliyyah of ICT postgraduate students}.
+\newblock \emph{Proceedings - 3rd International Conference on Advanced Computer
+  Science Applications and Technologies, ACSAT 2014}, pages 139--144, 2014.
+\newblock \doi{10.1109/ACSAT.2014.31}.
+
+\bibitem[Hinduja(2007)]{Hinduja2007}
+Sameer Hinduja.
+\newblock {Neutralization theory and online software piracy: An empirical
+  analysis}.
+\newblock \emph{Ethics and Information Technology}, \penalty0 (3):\penalty0
+  187--204, nov 2007.
+\newblock ISSN 1388-1957.
+\newblock \doi{10.1007/s10676-007-9143-5}.
+
+\bibitem[Hsu et~al.()Hsu, Lee, and Su]{Hsu}
+Chien-Lung Hsu, Ming-Ren Lee, and Chien-Hui Su.
+\newblock {The Role of Privacy Protection in Healthcare Information Systems
+  Adoption}.
+\newblock \doi{10.1007/s10916-013-9966-z}.
+
+\bibitem[Ingram and Hinduja(2008)]{Ingram2008}
+Jason~R. Ingram and Sameer Hinduja.
+\newblock {Neutralizing Music Piracy: An Empirical Examination}.
+\newblock \emph{Deviant Behavior}, 29\penalty0 (4):\penalty0 334--366, 2008.
+\newblock ISSN 0163-9625.
+\newblock \doi{10.1080/01639620701588131}.
+
+\bibitem[{ISO
+  27799:2016}(2016)]{TheInternationalOrganizationforStandardization2016}
+{ISO 27799:2016}.
+\newblock {BSI Standards Publication Health informatics — Information
+  security management in health using}.
+\newblock 27002, 2016.
+
+\bibitem[ISO/IEC(2014)]{ISO/IEC2014}
+ISO/IEC.
+\newblock {INTERNATIONAL STANDARD ISO / IEC Information technology — Security
+  techniques — Information security management systems — Overview and}.
+\newblock 2014:\penalty0 38, 2014.
+
+\bibitem[ISO/IEC29100()]{ISO/IEC}
+ISO/IEC29100.
+\newblock {ISO/IEC 29100:2011(en), Information technology — Security
+  techniques — Privacy framework}.
+
+\bibitem[Kamoun and Nicho()]{Kamoun}
+Faouzi Kamoun and Mathew Nicho.
+\newblock {Human and Organizational Factors of Healthcare Data Breaches: The
+  Swiss Cheese Model of Data Breach Causation And Prevention}.
+\newblock \emph{International Journal of Healthcare Information Systems and
+  Informatics}, 9\penalty0 (1):\penalty0 42--60.
+\newblock \doi{10.4018/ijhisi.2014010103}.
+
+\bibitem[Kierkegaard(2011)]{Kierkegaard2011}
+Patrick Kierkegaard.
+\newblock {Electronic health record: Wiring Europe's healthcare}.
+\newblock 2011.
+\newblock \doi{10.1016/j.clsr.2011.07.013}.
+
+\bibitem[Kim et~al.(2014)Kim, Yang, and Park]{Kim2014}
+Sang~Hoon Kim, Kyung~Hoon Yang, and Sunyoung Park.
+\newblock {An integrative behavioral model of information security policy
+  compliance}.
+\newblock \emph{The Scientific World Journal}, 2014:\penalty0 463870, 2014.
+\newblock ISSN 2356-6140.
+\newblock \doi{10.1155/2014/463870}.
+
+\bibitem[Kissel(2013)]{Kissel2013}
+Richard Kissel.
+\newblock {Glossary of Key Information Security Terms Glossary of Key
+  Information Security Terms}.
+\newblock \emph{Nist}, NISTIR 729\penalty0 (Revision 2), 2013.
+\newblock \doi{10.6028/NIST.IR.7298r2}.
+
+\bibitem[Mahfuth et~al.(2016)Mahfuth, {Singh Dhillon}, and {Mohd
+  Drus}]{Mahfuth2016}
+Amjad Mahfuth, Jaspaljeet {Singh Dhillon}, and Sulfeeza {Mohd Drus}.
+\newblock {a Systematic Review on Data Security and Patient Privacy Issues in
+  Electronic Medical Records}.
+\newblock \emph{Journal of Theoretical and Applied Information Technology},
+  3190\penalty0 (2):\penalty0 106--116, 2016.
+\newblock ISSN 1817-3195.
+\newblock URL \url{www.jatit.org}.
+
+\bibitem[MarketsandMarkets()]{MarketsandMarkets}
+MarketsandMarkets.
+\newblock {Healthcare Cloud Computing Market by Application (PACS; EMR; CPOE;
+  RCM; Claims Management); Deployment (Private; Public); Service (SaaS; IaaS);
+  Pricing (Pay as you go) {\&} by End-User (Providers; Payers) - Analysis and
+  Global Forecasts to 2020}.
+\newblock Technical report.
+
+\bibitem[Masrom and Rahimli(2014)]{Masrom2014}
+Maslin Masrom and Ailar Rahimli.
+\newblock {A review of cloud computing technology solution for healthcare
+  system}.
+\newblock \emph{Research Journal of Applied Sciences, Engineering and
+  Technology}, 8\penalty0 (20):\penalty0 2150--2153, 2014.
+\newblock ISSN 20407467.
+
+\bibitem[Minor(1981)]{Minor1981}
+W.~W. Minor.
+\newblock {Techniques of Neutralization: a Reconceptualization and Empirical
+  Examination}.
+\newblock \emph{Journal of Research in Crime and Delinquency}, 18\penalty0
+  (2):\penalty0 295--318, jul 1981.
+\newblock ISSN 0022-4278.
+\newblock \doi{10.1177/002242788101800206}.
+
+\bibitem[Morris and Higgins()]{Morris}
+Robert~G Morris and George~E Higgins.
+\newblock {Neutralizing Potential and Self-Reported Digital Piracy A
+  Multitheoretical Exploration Among College Undergraduates}.
+\newblock \doi{10.1177/0734016808325034}.
+\newblock URL
+  \url{http://journals.sagepub.com/doi/pdf/10.1177/0734016808325034}.
+
+\bibitem[of~Health et~al.()of~Health, {Services USA}, {USA Department of Health
+  and Human}, and Services]{OfHealth}
+Department of~Health, Human {Services USA}, {USA Department of Health and
+  Human}, and Services.
+\newblock {OFFICE RIGHTS FOR CIVIL Privacy, Security, and Electronic Health
+  Records 1 PRIVACY, SECURITY, AND ELECTRONIC HEALTH RECORDS}.
+\newblock URL
+  \url{https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/understanding/consumers/privacy-security-electronic-records.pdf}.
+
+\bibitem[Pai and Huang(2011)]{Pai2011}
+Fan-Yun Pai and Kai-I Huang.
+\newblock {Applying the Technology Acceptance Model to the introduction of
+  healthcare information systems}.
+\newblock 2011.
+\newblock \doi{10.1016/j.techfore.2010.11.007}.
+\newblock URL
+  \url{http://ac.els-cdn.com/S0040162510002714/1-s2.0-S0040162510002714-main.pdf?{\_}tid=7f09d7b8-08aa-11e7-909a-00000aab0f26{\&}acdnat=1489491582{\_}187baf56aaebd3a39a2d6c3ff39b5648}.
+
+\bibitem[Papoutsi et~al.(2015)Papoutsi, Reed, Marston, Lewis, Majeed, and
+  Bell]{Papoutsi2015}
+Chrysanthi Papoutsi, Julie~E Reed, Cicely Marston, Ruth Lewis, Azeem Majeed,
+  and Derek Bell.
+\newblock {Patient and public views about the security and privacy of
+  Electronic Health Records (EHRs) in the UK: results from a mixed methods
+  study.}
+\newblock \emph{BMC medical informatics and decision making}, 15:\penalty0 86,
+  2015.
+\newblock ISSN 1472-6947.
+\newblock \doi{10.1186/s12911-015-0202-2}.
+\newblock URL
+  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=4607170{\&}tool=pmcentrez{\&}rendertype=abstract}.
+
+\bibitem[Park et~al.(2017)Park, Kim, and Park]{Park2017}
+Eun~Hee Park, Jongwoo Kim, and Young~Soon Park.
+\newblock {The role of information security learning and individual factors in
+  disclosing patients' health information}.
+\newblock \emph{Computers {\&} Security}, 65:\penalty0 64--76, 2017.
+\newblock ISSN 0167-4048.
+\newblock \doi{http://dx.doi.org/10.1016/j.cose.2016.10.011}.
+
+\bibitem[Pfleeger et~al.(2007)Pfleeger, Pfleeger, and
+  Margulies]{pfleeger2007security}
+CP~Pfleeger, SL~Pfleeger, and Jonathan Margulies.
+\newblock Security in computing. 4th, 2007.
+
+\bibitem[{Ponemon Institute}(2012)]{PonemonInstitute2012}
+{Ponemon Institute}.
+\newblock {The Human Factor in Data Protection}.
+\newblock \penalty0 (January), 2012.
+
+\bibitem[Posthumus and Solms(2004)]{Posthumus2004}
+S~Posthumus and R~Von Solms.
+\newblock {A framework for the governance of information security}.
+\newblock \emph{Computers {\&} Security}, 2004.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0167404804002639}.
+
+\bibitem[Puhakainen and Siponen(2010)]{Puhakainen2010}
+Petri Puhakainen and Mikko Siponen.
+\newblock {Improving Employees' Compliance Through Information Systems Security
+  Training: An Action Research Study1}.
+\newblock \emph{Source: MIS Quarterly}, 34\penalty0 (4):\penalty0 757--778,
+  2010.
+\newblock URL \url{http://www.jstor.org/stable/25750704
+  http://about.jstor.org/terms}.
+
+\bibitem[Rahim et~al.(2016)Rahim, Ismail, and Samy]{Rahim2016}
+Fiza~Abdul Rahim, Zuraini Ismail, and Ganthan~Narayana Samy.
+\newblock {A Review on Influential Factors of Information Privacy Concerns in
+  the Use of Electronic Medical Records}.
+\newblock \emph{IJCSIS) International Journal of Computer Science and
+  Information Security}, 14\penalty0 (7), 2016.
+\newblock URL
+  \url{http://search.proquest.com/docview/1815514566/fulltextPDF/CA216B5E5BD1429EPQ/1?accountid=142908}.
+
+\bibitem[Rogers and Buffalo(1974)]{Rogers1974}
+Joseph~W Rogers and M~D Buffalo.
+\newblock {Neutralization Techniques: Toward a Simplified Measurement Scale
+  Toward a Simplified Measurement Scale}.
+\newblock \emph{Source: The Pacific Sociological Review}, 17\penalty0
+  (3):\penalty0 313--331, 1974.
+\newblock URL \url{http://www.jstor.org/stable/1388569
+  http://www.jstor.org/stable/1388569?seq=1{\&}cid=pdf-reference{\#}references{\_}tab{\_}contents
+  http://about.jstor.org/terms}.
+
+\bibitem[Safa et~al.(2015)Safa, Sookhak, {Von Solms}, Furnell, Ghani, and
+  Herawan]{Safa2015}
+Nader~Sohrabi Safa, Mehdi Sookhak, Rossouw {Von Solms}, Steven Furnell,
+  Norjihan~Abdul Ghani, and Tutut Herawan.
+\newblock {Information security conscious care behaviour formation in
+  organizations}.
+\newblock \emph{Computers {\&} Security}, 53:\penalty0 65--78, 2015.
+\newblock ISSN 01674048.
+\newblock \doi{10.1016/j.cose.2015.05.012}.
+
+\bibitem[Samy et~al.(2010{\natexlab{a}})Samy, Ahmad, and Ismail]{Samy2010b}
+G~N Samy, R~Ahmad, and Z~Ismail.
+\newblock {Security threats categories in healthcare information systems}.
+\newblock \emph{Health Informatics Journal}, 16\penalty0 (3):\penalty0
+  201--209, 2010{\natexlab{a}}.
+\newblock ISSN 1460-4582.
+\newblock \doi{10.1177/1460458210377468}.
+
+\bibitem[Samy et~al.(2010{\natexlab{b}})Samy, Ahmad, and Ismail]{Samy2010}
+Ganthan~Narayana Samy, Rabiah Ahmad, and Zuraini Ismail.
+\newblock {Security threats categories in healthcare information systems},
+  2010{\natexlab{b}}.
+\newblock ISSN 1460-4582.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20889850
+  http://jhi.sagepub.com}.
+
+\bibitem[Siponen and Vance(2010)]{Siponen2010}
+Mikko~T Siponen and Anthony Vance.
+\newblock {Neutralization: New insights into the problem of employee
+  information systems security policy violations}.
+\newblock \emph{MIS Quarterly: Management Information Systems}, 34\penalty0
+  (SPEC. ISSUE 3):\penalty0 487--502, 2010.
+\newblock ISSN 02767783.
+\newblock \doi{10.2460/javma.228.4.578}.
+\newblock URL
+  \url{http://www.scopus.com/inward/record.url?eid=2-s2.0-77957068563{\&}partnerID=40{\&}md5=c6ecfa7e63590aa13b8e6870bbc9c576}.
+
+\bibitem[Sultan(2014)]{Sultan2014}
+Nabil Sultan.
+\newblock {Making use of cloud computing for healthcare provision:
+  Opportunities and challenges}.
+\newblock \emph{International Journal of Information Management}, 34\penalty0
+  (2):\penalty0 177--184, 2014.
+\newblock ISSN 02684012.
+\newblock \doi{10.1016/j.ijinfomgt.2013.12.011}.
+
+\bibitem[Sykes and Matza(1957)]{Sykes1957}
+Gresham~M Sykes and David Matza.
+\newblock {Techniques of Neutralization: A Theory of Delinquency}.
+\newblock \emph{Source: American Sociological Review}, 22\penalty0
+  (6):\penalty0 664--670, 1957.
+\newblock URL \url{http://www.jstor.org/stable/2089195
+  http://www.jstor.org/stable/2089195?seq=1{\&}cid=pdf-reference{\#}references{\_}tab{\_}contents
+  http://about.jstor.org/terms}.
+
+\bibitem[Tashkandi and Al-Jabri(2015)]{tashkandi2015cloud}
+AlAlaa~N Tashkandi and Ibrahim~M Al-Jabri.
+\newblock {Cloud computing adoption by higher education institutions in Saudi
+  Arabia: an exploratory study}.
+\newblock \emph{Cluster Computing}, 18\penalty0 (4):\penalty0 1527--1537, 2015.
+
+\bibitem[Teh et~al.(2015)Teh, Ahmed, and D'Arcy]{Teh2015}
+Pei-Lee Teh, Pervaiz~K. Ahmed, and John D'Arcy.
+\newblock {What Drives Information Security Policy Violations among Banking
+  Employees? Insights from Neutralization and Social Exchange Theory}.
+\newblock \emph{Journal of Global Information Management}, 23\penalty0
+  (1):\penalty0 44--64, 2015.
+\newblock ISSN 1062-7375.
+\newblock \doi{10.4018/jgim.2015010103}.
+
+\bibitem[Tweel(2012)]{tweel2012examining}
+Abdeneaser Tweel.
+\newblock \emph{{Examining the Relationship between Technological,
+  Organizational, and Environmental Factors and Cloud Computing Adoption}}.
+\newblock PhD thesis, Northcentral University, 2012.
+
+\bibitem[{U.S. Department of Health and Human
+  Services}(2015)]{U.S.DepartmentofHealthandHumanServices2015}
+{U.S. Department of Health and Human Services}.
+\newblock {What is the difference between a Personal Health Record, an
+  Electronic Health Record, and an Electronic Medical Record?}, 2015.
+\newblock URL
+  \url{https://www.healthit.gov/providers-professionals/faqs/what-are-differences-between-electronic-medical-records-electronic}.
+
+\bibitem[{U.S. Department of Health and Human Services Office of Civil
+  Rights}(2014)]{OfficeofCivilRights2014}
+{U.S. Department of Health and Human Services Office of Civil Rights}.
+\newblock {Annual Report to Congress on Breaches of Unsecured Protected Health
+  Information For Calendar Years 2013 and 2014}.
+\newblock Technical report, 2014.
+\newblock URL
+  \url{https://www.hhs.gov/sites/default/files/rtc-breach-20132014.pdf?language=en}.
+
+\bibitem[{U.S. Department of Health and Human
+  ServicesHHS}(2003)]{U.S.DepartmentofHealthandHumanServices}
+{U.S. Department of Health and Human ServicesHHS}.
+\newblock {SUMMARY OF THE HIPAA PRIVACY RULE HIPAA Compliance Assistance O C R
+  P R I V A C Y B R I E F SUMMARY OF THE HIPAA PRIVACY RULE}.
+\newblock 2003.
+
+\bibitem[Wartenberg and Thompson(2010)]{Wartenberg2010}
+Daniel Wartenberg and W.~Douglas Thompson.
+\newblock {Privacy versus public health: The impact of current confidentiality
+  rules}, 2010.
+\newblock ISSN 00900036.
+
+\bibitem[World(2013)]{WorldHealthOrganization2013}
+World.
+\newblock {WHO | The World Health Report 2008 - primary Health Care (Now More
+  Than Ever)}.
+\newblock \emph{WHO}, 2013.
+\newblock URL \url{http://www.who.int/whr/2008/en/}.
+
+\bibitem[{World Health Organization}(2016)]{WorldHealthOrganization2016}
+{World Health Organization}.
+\newblock {WHO | Global diffusion of eHealth: Making universal health coverage
+  achievable}.
+\newblock Technical report, 2016.
+\newblock URL
+  \url{http://www.who.int/goe/publications/global{\_}diffusion/en/}.
+
+\bibitem[Yang et~al.(2015)Yang, Li, Mulder, Wang, Chen, Wu, Wang, and
+  Pan]{Yang2015}
+Ji~Jiang Yang, Jianqiang Li, Jacob Mulder, Yongcai Wang, Shi Chen, Hong Wu,
+  Qing Wang, and Hui Pan.
+\newblock {Emerging information technologies for enhanced healthcare}.
+\newblock \emph{Computers in Industry}, 69:\penalty0 3--11, 2015.
+\newblock ISSN 01663615.
+\newblock \doi{10.1016/j.compind.2015.01.012}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.compind.2015.01.012}.
+
+\bibitem[Zafar and Clark(2009)]{Zafar2009}
+Humayun Zafar and Jan~Guynes Clark.
+\newblock {Communications of the Association for Information Systems Current
+  State of Information Security Research In IS}.
+\newblock 24\penalty0 (34):\penalty0 557--596, 2009.
+\newblock URL \url{http://aisel.aisnet.org/cais
+  http://aisel.aisnet.org/cais/vol24/iss1/34}.
+
+\end{thebibliography}
