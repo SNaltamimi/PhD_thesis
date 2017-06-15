@@ -6,18 +6,19 @@
 \contentsline {subsection}{\numberline {1.2.3}Mobile Health (mHealth):}{3}{subsection.1.2.3}
 \contentsline {subsection}{\numberline {1.2.4}Cloud computing in Healthcare}{4}{subsection.1.2.4}
 \contentsline {subsection}{\numberline {1.2.5}Internet of Thing (IoT) in Healthcare}{5}{subsection.1.2.5}
-\contentsline {section}{\numberline {1.3}Information Security Managment(ISM) In Healthcare:}{5}{section.1.3}
-\contentsline {section}{\numberline {1.4}Privacy In Healthcare:}{7}{section.1.4}
-\contentsline {section}{\numberline {1.5}Pilot study (First Year Experiment):}{10}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}Study Background:}{10}{subsection.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}Study problem:}{12}{subsection.1.5.2}
-\contentsline {subsection}{\numberline {1.5.3}Theoretical Background:}{12}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.2.6}Information Security Managment(ISM) In Healthcare:}{5}{subsection.1.2.6}
+\contentsline {subsection}{\numberline {1.2.7}Privacy In Healthcare:}{7}{subsection.1.2.7}
+\contentsline {section}{\numberline {1.3}Pilot study (First Year Experiment):}{10}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Introduction:}{10}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Study Background:}{11}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Study problem:}{12}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Theoretical Background:}{12}{subsection.1.3.4}
 \contentsline {subsubsection}{Neutralisation Theory:}{12}{section*.4}
-\contentsline {subsection}{\numberline {1.5.4}Study Model and hypotheses:}{15}{subsection.1.5.4}
-\contentsline {subsection}{\numberline {1.5.5}Study Methodology:}{15}{subsection.1.5.5}
-\contentsline {subsection}{\numberline {1.5.6}Data Analisis and discussion:}{15}{subsection.1.5.6}
-\contentsline {subsection}{\numberline {1.5.7}Study Conclusion:}{15}{subsection.1.5.7}
-\contentsline {section}{\numberline {1.6}Plan and Future Work:}{15}{section.1.6}
-\contentsline {section}{\numberline {1.7}Activities in First Year:}{15}{section.1.7}
-\contentsline {section}{\numberline {1.8}First Year Summary:}{15}{section.1.8}
-\contentsline {chapter}{Bibliography}{15}{section.1.8}
+\contentsline {subsection}{\numberline {1.3.5}Study Model hypotheses:}{15}{subsection.1.3.5}
+\contentsline {subsection}{\numberline {1.3.6}Study Methodology:}{15}{subsection.1.3.6}
+\contentsline {subsection}{\numberline {1.3.7}Data Analisis and discussion:}{15}{subsection.1.3.7}
+\contentsline {subsection}{\numberline {1.3.8}Study Conclusion:}{15}{subsection.1.3.8}
+\contentsline {section}{\numberline {1.4}Plan and Future Work:}{16}{section.1.4}
+\contentsline {section}{\numberline {1.5}Activities in First Year:}{16}{section.1.5}
+\contentsline {section}{\numberline {1.6}First Year Summary:}{16}{section.1.6}
+\contentsline {chapter}{Bibliography}{16}{section.1.6}
