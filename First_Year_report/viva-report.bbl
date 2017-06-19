@@ -1,4 +1,4 @@
-\begin{thebibliography}{64}
+\begin{thebibliography}{67}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -34,6 +34,23 @@ F~Akowuah, X~Yuan, J~Xu, and H~Wang.
 \newblock \doi{10.4018/ijisp.2013100103}.
 \newblock URL
   \url{https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945184880{\&}partnerID=40{\&}md5=6f3ace7594a81b127b494447eebe0ab1}.
+
+\bibitem[Al-Moamary et~al.(2010)Al-Moamary, Mamede, and
+  Schmidt]{Al-Moamary2010}
+M.~S. Al-Moamary, S.~Mamede, and H.~G. Schmidt.
+\newblock {Innovations in medical internship: benchmarking and application
+  within the King Saud bin Abdulaziz University for Health Sciences.}
+\newblock \emph{Education for health (Abingdon, England)}, 23\penalty0
+  (1):\penalty0 367, 2010.
+\newblock ISSN 14695804.
+\newblock \doi{367 [pii]}.
+
+\bibitem[Al-moamary(2012)]{Al-moamary2012}
+Mohamed~S Al-moamary.
+\newblock {Medical Internshp Curriculum: Freamwork for Medical Intern's
+  Competencies}.
+\newblock Technical report, King Saudi Bin Abdulaziz University for Health
+  Sciences, 2012.
 
 \bibitem[Andriole(2014)]{Andriole2014a}
 Katherine~P. Andriole.
@@ -490,6 +507,15 @@ Daniel Wartenberg and W.~Douglas Thompson.
 \newblock {Privacy versus public health: The impact of current confidentiality
   rules}, 2010.
 \newblock ISSN 00900036.
+
+\bibitem[Wimberley et~al.(2005)Wimberley, Isaacson, Walden, Wiggins, Miller,
+  and Stacy]{Wimberley2005}
+Paige Wimberley, Julie Isaacson, Debra Walden, Nonie Wiggins, Renee Miller, and
+  Annette Stacy.
+\newblock {FORUM HIPAA and Nursing Education : How to Teach in a Paranoid
+  Health Care Environment}.
+\newblock \emph{Journal of Nursing Education}, 44\penalty0 (11):\penalty0 2005,
+  2005.
 
 \bibitem[World(2013)]{WorldHealthOrganization2013}
 World.
