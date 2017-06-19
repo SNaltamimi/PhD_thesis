@@ -1,4 +1,4 @@
-\begin{thebibliography}{62}
+\begin{thebibliography}{64}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -285,6 +285,14 @@ Robert~G Morris and George~E Higgins.
 \newblock URL
   \url{http://journals.sagepub.com/doi/pdf/10.1177/0734016808325034}.
 
+\bibitem[Mu and Kuo(2011)]{Mu2011}
+Alex Mu and Hsing Kuo.
+\newblock {Opportunities and Challenges of Cloud Computing to Improve Health
+  Care Services}.
+\newblock \emph{J Med Internet Res}, 13\penalty0 (3), 2011.
+\newblock \doi{10.2196/jmir.1867}.
+\newblock URL \url{http://www.jmir.org/article/viewFile/jmir{\_}v13i3e67/2}.
+
 \bibitem[of~Health et~al.()of~Health, {Services USA}, {USA Department of Health
   and Human}, and Services]{OfHealth}
 Department of~Health, Human {Services USA}, {USA Department of Health and
@@ -439,6 +447,13 @@ Pei-Lee Teh, Pervaiz~K. Ahmed, and John D'Arcy.
   (1):\penalty0 44--64, 2015.
 \newblock ISSN 1062-7375.
 \newblock \doi{10.4018/jgim.2015010103}.
+
+\bibitem[Trevino(1992)]{trevino1992experimental}
+Linda~Klebe Trevino.
+\newblock Experimental approaches to studying ethical-unethical behavior in
+  organizations.
+\newblock \emph{Business Ethics Quarterly}, 2\penalty0 (02):\penalty0 121--136,
+  1992.
 
 \bibitem[Tweel(2012)]{tweel2012examining}
 Abdeneaser Tweel.

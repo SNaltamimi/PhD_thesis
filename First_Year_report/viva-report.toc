@@ -18,9 +18,8 @@
 \contentsline {subsubsection}{Measures:}{16}{section*.6}
 \contentsline {subparagraph}{Construction of variables:}{16}{section*.7}
 \contentsline {subparagraph}{Neutralization Techniques:}{16}{section*.8}
-\contentsline {subsection}{\numberline {1.3.6}Data Analisis and discussion:}{17}{subsection.1.3.6}
-\contentsline {subsection}{\numberline {1.3.7}Study Conclusion:}{17}{subsection.1.3.7}
+\contentsline {subparagraph}{Control variables: }{17}{section*.9}
 \contentsline {section}{\numberline {1.4}Plan and Future Work:}{17}{section.1.4}
 \contentsline {section}{\numberline {1.5}Activities in First Year:}{17}{section.1.5}
-\contentsline {section}{\numberline {1.6}First Year Summary:}{17}{section.1.6}
-\contentsline {chapter}{Bibliography}{17}{section.1.6}
+\contentsline {section}{\numberline {1.6}First Year Summary:}{18}{section.1.6}
+\contentsline {chapter}{Bibliography}{18}{section.1.6}
