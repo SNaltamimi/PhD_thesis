@@ -1,12 +1,9 @@
-\begin{thebibliography}{70}
+\begin{thebibliography}{69}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
-
-\bibitem[()]{}
-full-text.
 
 \bibitem[Abdollahzadehgan et~al.(2013)Abdollahzadehgan, {Che Hussin}, Gohary,
   and Amini]{Abdollahzadehgan2013}
@@ -32,8 +29,6 @@ F~Akowuah, X~Yuan, J~Xu, and H~Wang.
   7\penalty0 (4):\penalty0 22--36, 2013.
 \newblock ISSN 19301650 (ISSN).
 \newblock \doi{10.4018/ijisp.2013100103}.
-\newblock URL
-  \url{https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945184880{\&}partnerID=40{\&}md5=6f3ace7594a81b127b494447eebe0ab1}.
 
 \bibitem[Al-Moamary et~al.(2010)Al-Moamary, Mamede, and
   Schmidt]{Al-Moamary2010}
@@ -75,8 +70,6 @@ Jordan~B Barlow, Merrill Warkentin, Dustin Ormond, and Alan~R Dennis.
   violation}.
 \newblock 2013.
 \newblock \doi{10.1016/j.cose.2013.05.006}.
-\newblock URL
-  \url{http://ac.els-cdn.com/S0167404813000898/1-s2.0-S0167404813000898-main.pdf?{\_}tid=7323926e-250f-11e7-b0b9-00000aab0f6b{\&}acdnat=1492613574{\_}70b359db1f35b3b04587c787538336af}.
 
 \bibitem[Bensefia and Zarrad(2014)]{Bensefia2014}
 Ameur Bensefia and Anis Zarrad.
@@ -161,8 +154,6 @@ ENISA.
 \newblock {Risk Management : Implementation principles and Inventories for Risk
   Management / Risk Assessment methods and tools}.
 \newblock \penalty0 (June):\penalty0 177, 2006.
-\newblock URL
-  \url{https://www.enisa.europa.eu/activities/risk-management/current-risk/risk-management-inventory/files/deliverables/risk-management-principles-and-inventories-for-risk-management-risk-assessment-methods-and-tools}.
 
 \bibitem[{Faculity of Medicine}(2009)]{FaculityofMedicine2009}
 King Abdulaziz~University {Faculity of Medicine}.
@@ -173,8 +164,6 @@ Mark Grindle, Jitendra Kavathekar, and Dadong Wan.
 \newblock {A new era for the healthcare industry - Cloud computing changes the
   game}.
 \newblock \emph{Accenture}, page~24, 2013.
-\newblock URL
-  \url{http://www.accenture.com/us-en/Pages/insight-healthcare-industry-cloud-computing.aspx}.
 
 \bibitem[Hamid and Zeki(2014)]{Hamid2014}
 Habiba Hamid and Akram~M. Zeki.
@@ -320,8 +309,6 @@ Department of~Health, Human {Services USA}, {USA Department of Health and
   Human}, and Services.
 \newblock {OFFICE RIGHTS FOR CIVIL Privacy, Security, and Electronic Health
   Records 1 PRIVACY, SECURITY, AND ELECTRONIC HEALTH RECORDS}.
-\newblock URL
-  \url{https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/understanding/consumers/privacy-security-electronic-records.pdf}.
 
 \bibitem[Pai and Huang(2011)]{Pai2011}
 Fan-Yun Pai and Kai-I Huang.
@@ -329,8 +316,6 @@ Fan-Yun Pai and Kai-I Huang.
   healthcare information systems}.
 \newblock 2011.
 \newblock \doi{10.1016/j.techfore.2010.11.007}.
-\newblock URL
-  \url{http://ac.els-cdn.com/S0040162510002714/1-s2.0-S0040162510002714-main.pdf?{\_}tid=7f09d7b8-08aa-11e7-909a-00000aab0f26{\&}acdnat=1489491582{\_}187baf56aaebd3a39a2d6c3ff39b5648}.
 
 \bibitem[Papoutsi et~al.(2015)Papoutsi, Reed, Marston, Lewis, Majeed, and
   Bell]{Papoutsi2015}
@@ -395,8 +380,6 @@ Fiza~Abdul Rahim, Zuraini Ismail, and Ganthan~Narayana Samy.
   the Use of Electronic Medical Records}.
 \newblock \emph{IJCSIS) International Journal of Computer Science and
   Information Security}, 14\penalty0 (7), 2016.
-\newblock URL
-  \url{http://search.proquest.com/docview/1815514566/fulltextPDF/CA216B5E5BD1429EPQ/1?accountid=142908}.
 
 \bibitem[Rogers and Buffalo(1974)]{Rogers1974}
 Joseph~W Rogers and M~D Buffalo.
@@ -404,9 +387,6 @@ Joseph~W Rogers and M~D Buffalo.
   Toward a Simplified Measurement Scale}.
 \newblock \emph{Source: The Pacific Sociological Review}, 17\penalty0
   (3):\penalty0 313--331, 1974.
-\newblock URL \url{http://www.jstor.org/stable/1388569
-  http://www.jstor.org/stable/1388569?seq=1{\&}cid=pdf-reference{\#}references{\_}tab{\_}contents
-  http://about.jstor.org/terms}.
 
 \bibitem[Safa et~al.(2015)Safa, Sookhak, {Von Solms}, Furnell, Ghani, and
   Herawan]{Safa2015}
@@ -431,8 +411,6 @@ Ganthan~Narayana Samy, Rabiah Ahmad, and Zuraini Ismail.
 \newblock {Security threats categories in healthcare information systems},
   2010{\natexlab{b}}.
 \newblock ISSN 1460-4582.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20889850
-  http://jhi.sagepub.com}.
 
 \bibitem[Siponen and Vance(2010)]{Siponen2010}
 Mikko~T Siponen and Anthony Vance.
@@ -442,8 +420,6 @@ Mikko~T Siponen and Anthony Vance.
   (SPEC. ISSUE 3):\penalty0 487--502, 2010.
 \newblock ISSN 02767783.
 \newblock \doi{10.2460/javma.228.4.578}.
-\newblock URL
-  \url{http://www.scopus.com/inward/record.url?eid=2-s2.0-77957068563{\&}partnerID=40{\&}md5=c6ecfa7e63590aa13b8e6870bbc9c576}.
 
 \bibitem[Sultan(2014)]{Sultan2014}
 Nabil Sultan.
@@ -459,9 +435,6 @@ Gresham~M Sykes and David Matza.
 \newblock {Techniques of Neutralization: A Theory of Delinquency}.
 \newblock \emph{Source: American Sociological Review}, 22\penalty0
   (6):\penalty0 664--670, 1957.
-\newblock URL \url{http://www.jstor.org/stable/2089195
-  http://www.jstor.org/stable/2089195?seq=1{\&}cid=pdf-reference{\#}references{\_}tab{\_}contents
-  http://about.jstor.org/terms}.
 
 \bibitem[Tashkandi and Al-Jabri(2015)]{tashkandi2015cloud}
 AlAlaa~N Tashkandi and Ibrahim~M Al-Jabri.
@@ -504,8 +477,6 @@ Abdeneaser Tweel.
 {U.S. Department of Health and Human Services}.
 \newblock {What is the difference between a Personal Health Record, an
   Electronic Health Record, and an Electronic Medical Record?}, 2015.
-\newblock URL
-  \url{https://www.healthit.gov/providers-professionals/faqs/what-are-differences-between-electronic-medical-records-electronic}.
 
 \bibitem[{U.S. Department of Health and Human Services Office of Civil
   Rights}(2014)]{OfficeofCivilRights2014}

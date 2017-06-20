@@ -1,163 +1,42 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: viva-report.aux
 The style file: plainnat.bst
 Database file #1: bibliography.bib
-Repeated entry---line 366 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 528 of file bibliography.bib
- : @misc{
- :       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 607 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1971 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2787 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3060 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3208 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4548 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4827 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4833 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4883 of file bibliography.bib
- : @misc{
- :       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4945 of file bibliography.bib
+Repeated entry---line 4907 of file bibliography.bib
  : @article{WorldHealthOrganization2016
  :                                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4978 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5020 of file bibliography.bib
- : @misc{
- :       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5055 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5062 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5068 of file bibliography.bib
- : @misc{
- :       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5177 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5258 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5593 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5599 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5638 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5662 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5896 of file bibliography.bib
- : @misc{
- :       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5900 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5990 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6013 of file bibliography.bib
- : @book{
- :       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6620 of file bibliography.bib
- : @article{
- :          ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6920 of file bibliography.bib
- : @misc{
- :       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6926 of file bibliography.bib
- : @misc{
- :       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 7126 of file bibliography.bib
+Repeated entry---line 7085 of file bibliography.bib
  : @article{Bensefia2014
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 7161 of file bibliography.bib
+Repeated entry---line 7120 of file bibliography.bib
  : @article{Care2006
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 7177 of file bibliography.bib
+Repeated entry---line 7136 of file bibliography.bib
  : @article{Safa2015
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 7190 of file bibliography.bib
+Repeated entry---line 7149 of file bibliography.bib
  : @article{Kim2014
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 7242 of file bibliography.bib
+Repeated entry---line 7201 of file bibliography.bib
  : @article{Safa2015
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 7256 of file bibliography.bib
+Repeated entry---line 7215 of file bibliography.bib
  : @article{Morris
  :                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 7278 of file bibliography.bib
+Repeated entry---line 7237 of file bibliography.bib
  : @article{Barlow2013
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 7430 of file bibliography.bib
+Repeated entry---line 7389 of file bibliography.bib
  : @article{Paternoster1996
  :                         ,
 I'm skipping whatever remains of this entry
-Warning--to sort, need author or key in 
-Warning--empty author in 
-Warning--empty journal in 
-Warning--empty year in 
-Warning--empty year in 
 Warning--empty journal in Barlow2013
 Warning--empty journal in BSI2014
 Warning--there's a number but no volume in BSI2014
@@ -192,4 +71,4 @@ Warning--empty institution in OfficeofCivilRights2014
 Warning--empty journal in U.S.DepartmentofHealthandHumanServices
 Warning--empty institution in WorldHealthOrganization2016
 Warning--empty journal in Zafar2009
-(There were 38 error messages)
+(There were 9 error messages)

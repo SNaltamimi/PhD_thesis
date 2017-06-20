@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.6.1)  20 JUN 2017 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.6.1)  20 JUN 2017 16:28
 entering extended mode
 **./viva-report.tex
 (viva-report.tex
@@ -573,56 +573,19 @@ LaTeX Info: Redefining \pageref on input line 73.
 LaTeX Info: Redefining \nameref on input line 73.
 )
 (cover-referances.tex
-
-LaTeX Warning: No \author given.
-
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 11.
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/sc' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
-
-
-LaTeX Warning: No \author given.
-
-[1
-
-
-{C:/Users/sara/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(abstract.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
-)pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.17 \newpage
-              [1
-
-]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.53 \tableofcontents
-                      [2
-
-]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 53.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 53.
  (viva-report.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 2.
@@ -633,45 +596,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write5
 \openout5 = `viva-report.toc'.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.54 \listoftables
-                   [3
+ [1
 
-] (viva-report.lot)
-\tf@lot=\write6
-\openout6 = `viva-report.lot'.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.55 \listoffigures
-                    [4
-
-] (viva-report.lof)
-\tf@lof=\write7
-\openout7 = `viva-report.lof'.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.58 \cleardoublepage
-                      [5
-
-])
+{C:/Users/sara/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
 Chapter 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 7.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 16.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 15.
 [1
 
 
@@ -686,14 +623,18 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
 
-Overfull \hbox (22.16542pt too wide) in paragraph at lines 25--26
+Overfull \hbox (22.16542pt too wide) in paragraph at lines 24--25
 \OT1/ptm/m/n/12 care or-gan-i-sa-tions such as E-Health, Elec-tronic Mealth Rec
 ords (EMR), Mo-bile health (mHealth),
  []
 
 [2]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 31.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 32.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ¢ in font ptmr7t!
@@ -711,7 +652,7 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
@@ -744,12 +685,12 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 145--147
+Underfull \hbox (badness 10000) in paragraph at lines 144--146
 
  []
 
@@ -759,16 +700,16 @@ Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
-[11] <Data_Breach_table_2013_2014.JPG, id=272, 360.1455pt x 273.4215pt>
+[11] <Data_Breach_table_2013_2014.JPG, id=253, 360.1455pt x 273.4215pt>
 File: Data_Breach_table_2013_2014.JPG Graphic file (type jpg)
 
 <use Data_Breach_table_2013_2014.JPG>
-Package pdftex.def Info: Data_Breach_table_2013_2014.JPG used on input line 156
+Package pdftex.def Info: Data_Breach_table_2013_2014.JPG used on input line 155
 .
 (pdftex.def)             Requested size: 360.1446pt x 273.4208pt.
  [12]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 159.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 158.
  [13 <./Data_Breach_table_2013_2014.JPG>]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
@@ -800,24 +741,24 @@ Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
  [16]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 195.
- <Research_Model_Fv.JPG, id=342, 752.21025pt x 421.575pt>
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 194.
+ <Research_Model_Fv.JPG, id=322, 752.21025pt x 421.575pt>
 File: Research_Model_Fv.JPG Graphic file (type jpg)
 
 <use Research_Model_Fv.JPG>
-Package pdftex.def Info: Research_Model_Fv.JPG used on input line 199.
+Package pdftex.def Info: Research_Model_Fv.JPG used on input line 198.
 (pdftex.def)             Requested size: 300.87877pt x 168.627pt.
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-Overfull \hbox (5.4602pt too wide) in paragraph at lines 206--208
+Overfull \hbox (5.4602pt too wide) in paragraph at lines 205--207
 \OT1/ptm/m/n/12 The au-thors col-lected their data from Med-i-cal In-terns(MI) 
 within Saudi Ara-bia Hos-pi-tals.They
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--208
+Underfull \hbox (badness 10000) in paragraph at lines 205--207
 
  []
 
@@ -829,89 +770,24 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ¢ in font ptmr7t!
 
-<ResearchGanttChart1.JPG, id=365, 566.115pt x 325.215pt>
+<ResearchGanttChart1.JPG, id=346, 566.115pt x 325.215pt>
 File: ResearchGanttChart1.JPG Graphic file (type jpg)
 
 <use ResearchGanttChart1.JPG>
-Package pdftex.def Info: ResearchGanttChart1.JPG used on input line 229.
+Package pdftex.def Info: ResearchGanttChart1.JPG used on input line 228.
 (pdftex.def)             Requested size: 396.2778pt x 227.64894pt.
  [19]
-! Missing } inserted.
-<inserted text> 
-                }
-l.230 \end{center}
-                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ¢ in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ¢ in font ptmr7t!
-(footer.tex (viva-report.bbl [20 <./ResearchGanttChart1.JPG>]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 36.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+ (footer.tex (viva-report.bbl [20 <./ResearchGanttChart1.JPG>]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 56.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 1442) in paragraph at lines 28--37
-[]\OT1/ptm/m/n/12 F Akowuah, X Yuan, J Xu, and H Wang.  A sur-vey of se-cu-rity
- stan-dards
- []
-
-
-Underfull \hbox (badness 2245) in paragraph at lines 28--37
-\OT1/ptm/m/n/12 ap-pli-ca-ble to health in-for-ma-tion sys-tems.  \OT1/ptm/m/it
-/12 In-ter-na-tional Jour-nal of In-for-ma-
- []
-
-
-Underfull \hbox (badness 1132) in paragraph at lines 28--37
-\OT1/ptm/m/it/12 tion Se-cu-rity and Pri-vacy\OT1/ptm/m/n/12 , 7(4):22--36, 201
-3.  ISSN 19301650 (ISSN).  doi:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--37
-\OT1/ptm/m/n/12 10 . 4018 / ijisp . 2013100103$.  URL []$\OT1/pcr/m/n/12 https 
-: / / www . scopus . com / inward /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--37
-\OT1/pcr/m/n/12 record . uri ? eid = 2-[]s2 . 0-[]84945184880{&}partnerID = 40{
-&}md5 =
- []
-
-
-Underfull \hbox (badness 3078) in paragraph at lines 73--80
-[]\OT1/ptm/m/n/12 Jordan B Bar-low, Mer-rill Warkentin, Dustin Or-mond, and Ala
-n R Den-nis.
- []
-
-
-Underfull \hbox (badness 1762) in paragraph at lines 73--80
-\OT1/ptm/m/n/12 Don't make ex-cuses! Dis-cour-ag-ing neu-tral-iza-tion to re-du
-ce IT pol-icy vi-o-la-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--80
-\OT1/pcr/m/n/12 com / S0167404813000898 / 1-[]s2 . 0-[]S0167404813000898-[]main
- . pdf ?
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--80
-\OT1/pcr/m/n/12 {_}tid = 7323926e-[]250f-[]11e7-[]b0b9-[]00000aab0f6b{&}acdnat 
-=
- []
-
 [21
 
 ]
@@ -925,51 +801,6 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no î in font ptmr7t!
  [22]
-Underfull \hbox (badness 10000) in paragraph at lines 160--166
-[]\OT1/ptm/m/n/12 ENISA.  Risk Man-age-ment : Im-ple-men-ta-tion prin-ci-ples a
-nd In-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--166
-\OT1/ptm/m/n/12 ven-to-ries for Risk Man-age-ment / Risk As-sess-ment meth-ods
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--166
-\OT1/ptm/m/n/12 and tools.  (June):177, 2006.  URL []$\OT1/pcr/m/n/12 https : /
- / www . enisa .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--166
-\OT1/pcr/m/n/12 europa . eu / activities / risk-[]management / current-[]risk /
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--166
-\OT1/pcr/m/n/12 risk-[]management-[]inventory / files / deliverables /
- []
-
-
-Overfull \hbox (285.04884pt too wide) in paragraph at lines 160--166
-\OT1/pcr/m/n/12 risk-[]management-[]principles-[]and-[]inventories-[]for-[]risk
--[]management-[]risk-[]assessment-[]methods-[]and-[]tools$[]\OT1/ptm/m/n/12 . 
- []
-
-
-Underfull \hbox (badness 5288) in paragraph at lines 172--178
-[]\OT1/ptm/m/n/12 Mark Grindle, Ji-ten-dra Ka-vathekar, and Dadong Wan.  A new 
-era for
- []
-
-
-Underfull \hbox (badness 7047) in paragraph at lines 172--178
-\OT1/ptm/m/n/12 the health-care in-dus-try - Cloud com-put-ing changes the game
-.  \OT1/ptm/m/it/12 Ac-cen-
- []
-
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no î in font ptmr7t!
@@ -988,209 +819,55 @@ Missing character: There is no î in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no î in font ptmr7t!
-[23] [24]
-Underfull \hbox (badness 1642) in paragraph at lines 310--316
+ [23]
+Underfull \hbox (badness 1642) in paragraph at lines 299--305
 []\OT1/ptm/m/n/12 Alex Mu and Hs-ing Kuo.  Op-por-tu-ni-ties and Chal-lenges of
  Cloud Com-put-
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 310--316
+Underfull \hbox (badness 2990) in paragraph at lines 299--305
 \OT1/ptm/m/n/12 ing to Im-prove Health Care Ser-vices.  \OT1/ptm/m/it/12 J Med 
 Internet Res\OT1/ptm/m/n/12 , 13(3), 2011.
  []
 
-
-Underfull \hbox (badness 4886) in paragraph at lines 319--325
-[]\OT1/ptm/m/n/12 Department of Health, Hu-man Ser-vices USA, USA De-part-ment 
-of Health
- []
-
-
-Underfull \hbox (badness 2903) in paragraph at lines 319--325
-\OT1/ptm/m/n/12 and Hu-man, and Ser-vices.  OF-FICE RIGHTS FOR CIVIL Pri-vacy, 
-Se-cu-
- []
-
-
-Underfull \hbox (badness 3250) in paragraph at lines 319--325
-\OT1/ptm/m/n/12 rity, and Elec-tronic Health Records 1 PRI-VACY, SE-CU-RITY, AN
-D ELEC-
- []
-
-
-Underfull \hbox (badness 5036) in paragraph at lines 319--325
-\OT1/ptm/m/n/12 TRONIC HEALTH RECORDS.  URL []$\OT1/pcr/m/n/12 https : / / www 
-. hhs . gov / sites /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 319--325
-\OT1/pcr/m/n/12 default / files / ocr / privacy / hipaa / understanding / consu
-mers /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 327--334
-[]\OT1/ptm/m/n/12 Fan-Yun Pai and Kai-I Huang.  Ap-ply-ing the Tech-nol-ogy Ac-
-cep-tance
- []
-
-
-Underfull \hbox (badness 2326) in paragraph at lines 327--334
-\OT1/ptm/m/n/12 Model to the in-tro-duc-tion of health-care in-for-ma-tion sys-
-tems.  2011.  doi:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 327--334
-\OT1/ptm/m/n/12 10 . 1016 / j . techfore . 2010 . 11 . 007$.  URL []$\OT1/pcr/m
-/n/12 http : / / ac . els-[]cdn . com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 327--334
-\OT1/pcr/m/n/12 S0040162510002714 / 1-[]s2 . 0-[]S0040162510002714-[]main . pdf
- ?
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 327--334
-\OT1/pcr/m/n/12 {_}tid = 7f09d7b8-[]08aa-[]11e7-[]909a-[]00000aab0f26{&}acdnat 
-=
- []
-
-
-Underfull \hbox (badness 1331) in paragraph at lines 337--348
+[24]
+Underfull \hbox (badness 1331) in paragraph at lines 322--333
 []\OT1/ptm/m/n/12 Chrysanthi Pa-poutsi, Julie E Reed, Ci-cely Marston, Ruth Lew
 is, Azeem Ma-
  []
 
 
-Underfull \hbox (badness 4072) in paragraph at lines 337--348
+Underfull \hbox (badness 4072) in paragraph at lines 322--333
 \OT1/ptm/m/n/12 jeed, and Derek Bell.  Pa-tient and pub-lic views about the se-
 cu-rity and
  []
 
 
-Underfull \hbox (badness 5431) in paragraph at lines 337--348
+Underfull \hbox (badness 5431) in paragraph at lines 322--333
 \OT1/ptm/m/n/12 pri-vacy of Elec-tronic Health Records (EHRs) in the UK: re-sul
 ts from a
  []
 
 
-Underfull \hbox (badness 2277) in paragraph at lines 337--348
+Underfull \hbox (badness 2277) in paragraph at lines 322--333
 \OT1/ptm/m/n/12 mixed meth-ods study.  \OT1/ptm/m/it/12 BMC med-i-cal in-for-ma
 t-ics and de-ci-sion mak-ing\OT1/ptm/m/n/12 , 15:
  []
 
 
-Underfull \hbox (badness 4001) in paragraph at lines 337--348
+Underfull \hbox (badness 4001) in paragraph at lines 322--333
 \OT1/ptm/m/n/12 86, 2015.  ISSN 1472-6947.  doi: $10 . 1186 / s12911-[]015-[]02
 02-[]2$.  URL
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--348
+Underfull \hbox (badness 10000) in paragraph at lines 322--333
 []$\OT1/pcr/m/n/12 http : / / www . pubmedcentral . nih . gov / articlerender .
  fcgi ?
  []
 
-[25]
-Underfull \hbox (badness 10000) in paragraph at lines 402--410
-\OT1/pcr/m/n/12 stable / 1388569http : / / www . jstor . org / stable / 1388569
- ? seq =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 402--410
-\OT1/pcr/m/n/12 1{&}cid = pdf-[]reference{#}references{_}tab{_}contentshttp :
- []
-
-
-Underfull \hbox (badness 6047) in paragraph at lines 430--436
-[]\OT1/ptm/m/n/12 Ganthan Narayana Samy, Ra-biah Ah-mad, and Zu-raini Is-mail. 
- Se-cu-rity
- []
-
-
-Underfull \hbox (badness 1371) in paragraph at lines 430--436
-\OT1/ptm/m/n/12 threats cat-e-gories in health-care in-for-ma-tion sys-tems, 20
-10.  ISSN 1460-4582.
- []
-
-
-Underfull \hbox (badness 1448) in paragraph at lines 438--447
-\OT1/ptm/m/n/12 doi: $10 . 2460 / javma . 228 . 4 . 578$.  URL []$\OT1/pcr/m/n/
-12 http : / / www . scopus . com / inward /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 438--447
-\OT1/pcr/m/n/12 record . url ? eid = 2-[]s2 . 0-[]77957068563{&}partnerID = 40{
-&}md5 =
- []
-
-[26]
-Underfull \hbox (badness 10000) in paragraph at lines 458--465
-[]\OT1/ptm/m/n/12 Gresham M Sykes and David Matza.  Tech-niques of Neu-tral-iza
--tion:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 458--465
-\OT1/ptm/m/n/12 A The-ory of Delin-quency.  \OT1/ptm/m/it/12 Source: Amer-i-can
- So-ci-o-log-i-cal Re-view\OT1/ptm/m/n/12 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 458--465
-\OT1/ptm/m/n/12 22(6):664--670, 1957.  URL []$\OT1/pcr/m/n/12 http : / / www . 
-jstor . org / stable /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 458--465
-\OT1/pcr/m/n/12 2089195http : / / www . jstor . org / stable / 2089195 ? seq = 
-1{&}cid =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 458--465
-\OT1/pcr/m/n/12 pdf-[]reference{#}references{_}tab{_}contentshttp : / / about .
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 504--509
-[]\OT1/ptm/m/n/12 U.S. De-part-ment of Health and Hu-man Ser-vices.  What is th
-e dif-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 504--509
-\OT1/ptm/m/n/12 fer-ence be-tween a Per-sonal Health Record, an Elec-tronic Hea
-lth
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 504--509
-\OT1/ptm/m/n/12 Record, and an Elec-tronic Med-i-cal Record?, 2015.  URL []$\OT
-1/pcr/m/n/12 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 504--509
-\OT1/pcr/m/n/12 / / www . healthit . gov / providers-[]professionals / faqs /
- []
-
-
-Overfull \hbox (66.54893pt too wide) in paragraph at lines 504--509
-\OT1/pcr/m/n/12 what-[]are-[]differences-[]between-[]electronic-[]medical-[]rec
-ords-[]electronic$[]\OT1/ptm/m/n/12 . 
- []
-
-[27]) [28]
+[25] [26]) [27]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 8.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 8.
  (viva-report.aux)
@@ -1199,13 +876,13 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 8.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 8.
  ) ) 
 Here is how much of TeX's memory you used:
- 10200 strings out of 493328
- 150195 string characters out of 3139128
- 260472 words of memory out of 3000000
- 13391 multiletter control sequences out of 15000+200000
- 39057 words of font info for 74 fonts, out of 3000000 for 9000
+ 10162 strings out of 493328
+ 149762 string characters out of 3139128
+ 258416 words of memory out of 3000000
+ 13375 multiletter control sequences out of 15000+200000
+ 25793 words of font info for 58 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 46i,11n,45p,1820b,556s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,11n,45p,1820b,548s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
@@ -1213,9 +890,9 @@ urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb
 8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on viva-report.pdf (34 pages, 505616 bytes).
+Output written on viva-report.pdf (28 pages, 485562 bytes).
 PDF statistics:
- 586 PDF objects out of 1000 (max. 8388607)
- 127 named destinations out of 1000 (max. 500000)
+ 523 PDF objects out of 1000 (max. 8388607)
+ 123 named destinations out of 1000 (max. 500000)
  152 words of extra memory for PDF output out of 10000 (max. 10000000)
 

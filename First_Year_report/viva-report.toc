@@ -9,16 +9,16 @@
 \contentsline {section}{\numberline {1.3}Pilot Study (First Year Experiment):}{11}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Introduction:}{11}{subsection.1.3.1}
 \contentsline {subsection}{\numberline {1.3.2}Study Background:}{12}{subsection.1.3.2}
-\contentsline {subsubsection}{Medical interns}{13}{section*.4}
+\contentsline {subsubsection}{Medical interns}{13}{section*.2}
 \contentsline {subsection}{\numberline {1.3.3}Study problem:}{14}{subsection.1.3.3}
 \contentsline {subsection}{\numberline {1.3.4}Theoretical Background:}{14}{subsection.1.3.4}
-\contentsline {subsubsection}{Neutralisation Theory:}{14}{section*.5}
+\contentsline {subsubsection}{Neutralisation Theory:}{14}{section*.3}
 \contentsline {subsection}{\numberline {1.3.5}Research Model and hypotheses:}{17}{subsection.1.3.5}
-\contentsline {subsubsection}{Participants:}{18}{section*.6}
-\contentsline {subsubsection}{Measures:}{18}{section*.7}
-\contentsline {subparagraph}{Construction of variables:}{18}{section*.8}
-\contentsline {subparagraph}{Neutralization Techniques:}{18}{section*.9}
-\contentsline {subparagraph}{Control variables: }{19}{section*.10}
+\contentsline {subsubsection}{Participants:}{18}{section*.4}
+\contentsline {subsubsection}{Measures:}{18}{section*.5}
+\contentsline {subparagraph}{Construction of variables:}{18}{section*.6}
+\contentsline {subparagraph}{Neutralization Techniques:}{18}{section*.7}
+\contentsline {subparagraph}{Control variables: }{19}{section*.8}
 \contentsline {section}{\numberline {1.4}Plan and Future Work:}{19}{section.1.4}
 \contentsline {section}{\numberline {1.5}Activities in First Year:}{20}{section.1.5}
 \contentsline {chapter}{Bibliography}{20}{section.1.5}
