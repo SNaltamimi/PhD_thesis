@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.6.1)  20 JUN 2017 11:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.6.1)  20 JUN 2017 15:47
 entering extended mode
 **./viva-report.tex
 (viva-report.tex
@@ -573,15 +573,22 @@ LaTeX Info: Redefining \pageref on input line 73.
 LaTeX Info: Redefining \nameref on input line 73.
 )
 (cover-referances.tex
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 12.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 11.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/sc' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 12.
- [1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+
+
+LaTeX Warning: No \author given.
+
+[1
 
 
 {C:/Users/sara/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -592,26 +599,26 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.18 \newpage
+l.17 \newpage
               [1
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \tableofcontents
+l.53 \tableofcontents
                       [2
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 54.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 53.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 54.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 53.
  (viva-report.toc
 LaTeX Font Info:    Try loading font information for U+msa on input line 2.
 
@@ -630,7 +637,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.55 \listoftables
+l.54 \listoftables
                    [3
 
 ] (viva-report.lot)
@@ -641,7 +648,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.56 \listoffigures
+l.55 \listoffigures
                     [4
 
 ] (viva-report.lof)
@@ -652,7 +659,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.59 \cleardoublepage
+l.58 \cleardoublepage
                       [5
 
 ])
@@ -752,7 +759,7 @@ Missing character: There is no ™ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
-[11] <Data_Breach_table_2013_2014.JPG, id=276, 360.1455pt x 273.4215pt>
+[11] <Data_Breach_table_2013_2014.JPG, id=272, 360.1455pt x 273.4215pt>
 File: Data_Breach_table_2013_2014.JPG Graphic file (type jpg)
 
 <use Data_Breach_table_2013_2014.JPG>
@@ -794,13 +801,12 @@ Missing character: There is no ™ in font ptmr7t!
  [16]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 195.
- <Research_Model_Fv.JPG, id=346, 758.23276pt x 449.88075pt>
+ <Research_Model_Fv.JPG, id=342, 752.21025pt x 421.575pt>
 File: Research_Model_Fv.JPG Graphic file (type jpg)
 
 <use Research_Model_Fv.JPG>
 Package pdftex.def Info: Research_Model_Fv.JPG used on input line 199.
-(pdftex.def)             Requested size: 303.28772pt x 179.94911pt.
- [17 <./Research_Model_Fv.JPG>]
+(pdftex.def)             Requested size: 300.87877pt x 168.627pt.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
@@ -815,21 +821,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 206--208
 
  []
 
-[18]
+[17 <./Research_Model_Fv.JPG>] [18]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ¢ in font ptmr7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ¢ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ¢ in font ptmr7t!
+
+<ResearchGanttChart1.JPG, id=365, 566.115pt x 325.215pt>
+File: ResearchGanttChart1.JPG Graphic file (type jpg)
+
+<use ResearchGanttChart1.JPG>
+Package pdftex.def Info: ResearchGanttChart1.JPG used on input line 229.
+(pdftex.def)             Requested size: 396.2778pt x 227.64894pt.
  [19]
+! Missing } inserted.
+<inserted text> 
+                }
+l.230 \end{center}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ¢ in font ptmr7t!
- (footer.tex (viva-report.bbl [20]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ¢ in font ptmr7t!
+(footer.tex (viva-report.bbl [20 <./ResearchGanttChart1.JPG>]
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 36.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
@@ -1176,10 +1200,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 8.
  ) ) 
 Here is how much of TeX's memory you used:
  10200 strings out of 493328
- 150096 string characters out of 3139128
+ 150195 string characters out of 3139128
  260472 words of memory out of 3000000
- 13388 multiletter control sequences out of 15000+200000
- 42291 words of font info for 77 fonts, out of 3000000 for 9000
+ 13391 multiletter control sequences out of 15000+200000
+ 39057 words of font info for 74 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  46i,11n,45p,1820b,556s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/
@@ -1189,9 +1213,9 @@ urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb
 8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on viva-report.pdf (34 pages, 396586 bytes).
+Output written on viva-report.pdf (34 pages, 505616 bytes).
 PDF statistics:
- 591 PDF objects out of 1000 (max. 8388607)
- 128 named destinations out of 1000 (max. 500000)
- 155 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 586 PDF objects out of 1000 (max. 8388607)
+ 127 named destinations out of 1000 (max. 500000)
+ 152 words of extra memory for PDF output out of 10000 (max. 10000000)
 

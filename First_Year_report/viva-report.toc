@@ -21,5 +21,4 @@
 \contentsline {subparagraph}{Control variables: }{19}{section*.10}
 \contentsline {section}{\numberline {1.4}Plan and Future Work:}{19}{section.1.4}
 \contentsline {section}{\numberline {1.5}Activities in First Year:}{20}{section.1.5}
-\contentsline {section}{\numberline {1.6}First Year Summary:}{20}{section.1.6}
-\contentsline {chapter}{Bibliography}{20}{section.1.6}
+\contentsline {chapter}{Bibliography}{20}{section.1.5}
