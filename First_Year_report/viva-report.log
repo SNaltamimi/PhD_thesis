@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.6.1)  20 JUN 2017 16:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.6.1)  20 JUN 2017 23:06
 entering extended mode
 **./viva-report.tex
 (viva-report.tex
@@ -613,28 +613,18 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
 
 
 ]
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-
-Overfull \hbox (22.16542pt too wide) in paragraph at lines 24--25
+Overfull \hbox (22.16542pt too wide) in paragraph at lines 24--28
 \OT1/ptm/m/n/12 care or-gan-i-sa-tions such as E-Health, Elec-tronic Mealth Rec
 ords (EMR), Mo-bile health (mHealth),
  []
 
 [2]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 31.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 34.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ¢ in font ptmr7t!
@@ -652,7 +642,7 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
@@ -685,12 +675,12 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 144--146
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
 
  []
 
@@ -704,12 +694,12 @@ Missing character: There is no ô in font ptmr7t!
 File: Data_Breach_table_2013_2014.JPG Graphic file (type jpg)
 
 <use Data_Breach_table_2013_2014.JPG>
-Package pdftex.def Info: Data_Breach_table_2013_2014.JPG used on input line 155
+Package pdftex.def Info: Data_Breach_table_2013_2014.JPG used on input line 158
 .
 (pdftex.def)             Requested size: 360.1446pt x 273.4208pt.
  [12]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 158.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 161.
  [13 <./Data_Breach_table_2013_2014.JPG>]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
@@ -726,43 +716,53 @@ Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ú in font ptmr7t!
- [14] [15]
+ [14]
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
- [16]
+[16]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 194.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 198.
  <Research_Model_Fv.JPG, id=322, 752.21025pt x 421.575pt>
 File: Research_Model_Fv.JPG Graphic file (type jpg)
 
 <use Research_Model_Fv.JPG>
-Package pdftex.def Info: Research_Model_Fv.JPG used on input line 198.
+Package pdftex.def Info: Research_Model_Fv.JPG used on input line 202.
 (pdftex.def)             Requested size: 300.87877pt x 168.627pt.
+ [17]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-Overfull \hbox (5.4602pt too wide) in paragraph at lines 205--207
+Overfull \hbox (5.4602pt too wide) in paragraph at lines 209--210
 \OT1/ptm/m/n/12 The au-thors col-lected their data from Med-i-cal In-terns(MI) 
 within Saudi Ara-bia Hos-pi-tals.They
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 205--207
-
- []
-
-[17 <./Research_Model_Fv.JPG>] [18]
+[18 <./Research_Model_Fv.JPG>] [19]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ¢ in font ptmr7t!
@@ -770,25 +770,24 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ¢ in font ptmr7t!
 
-<ResearchGanttChart1.JPG, id=346, 566.115pt x 325.215pt>
+<ResearchGanttChart1.JPG, id=352, 566.115pt x 325.215pt>
 File: ResearchGanttChart1.JPG Graphic file (type jpg)
 
 <use ResearchGanttChart1.JPG>
-Package pdftex.def Info: ResearchGanttChart1.JPG used on input line 228.
+Package pdftex.def Info: ResearchGanttChart1.JPG used on input line 231.
 (pdftex.def)             Requested size: 396.2778pt x 227.64894pt.
- [19]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ¢ in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ¢ in font ptmr7t!
- (footer.tex (viva-report.bbl [20 <./ResearchGanttChart1.JPG>]
+ [20 <./ResearchGanttChart1.JPG>] (footer.tex
+(viva-report.bbl [21]
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 56.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-[21
+) [22
 
 ]
 Missing character: There is no ‚ in font ptmr7t!
@@ -800,26 +799,26 @@ Missing character: There is no î in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no î in font ptmr7t!
- [22]
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no î in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no î in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no î in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no î in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no î in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no î in font ptmr7t!
  [23]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no î in font ptmr7t!
+ [24]
 Underfull \hbox (badness 1642) in paragraph at lines 299--305
 []\OT1/ptm/m/n/12 Alex Mu and Hs-ing Kuo.  Op-por-tu-ni-ties and Chal-lenges of
  Cloud Com-put-
@@ -831,7 +830,7 @@ Underfull \hbox (badness 2990) in paragraph at lines 299--305
 Internet Res\OT1/ptm/m/n/12 , 13(3), 2011.
  []
 
-[24]
+[25]
 Underfull \hbox (badness 1331) in paragraph at lines 322--333
 []\OT1/ptm/m/n/12 Chrysanthi Pa-poutsi, Julie E Reed, Ci-cely Marston, Ruth Lew
 is, Azeem Ma-
@@ -867,7 +866,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 322--333
  fcgi ?
  []
 
-[25] [26]) [27]
+[26] [27]) [28]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 8.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 8.
  (viva-report.aux)
@@ -876,10 +875,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 8.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 8.
  ) ) 
 Here is how much of TeX's memory you used:
- 10162 strings out of 493328
- 149762 string characters out of 3139128
- 258416 words of memory out of 3000000
- 13375 multiletter control sequences out of 15000+200000
+ 10159 strings out of 493328
+ 149648 string characters out of 3139128
+ 258329 words of memory out of 3000000
+ 13372 multiletter control sequences out of 15000+200000
  25793 words of font info for 58 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  46i,11n,45p,1820b,548s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -890,9 +889,9 @@ urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb
 8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on viva-report.pdf (28 pages, 485562 bytes).
+Output written on viva-report.pdf (29 pages, 485510 bytes).
 PDF statistics:
- 523 PDF objects out of 1000 (max. 8388607)
+ 524 PDF objects out of 1000 (max. 8388607)
  123 named destinations out of 1000 (max. 500000)
  152 words of extra memory for PDF output out of 10000 (max. 10000000)
 
