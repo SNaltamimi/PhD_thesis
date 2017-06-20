@@ -149,7 +149,10 @@ Repeated entry---line 7278 of file bibliography.bib
  : @article{Barlow2013
  :                    ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "FaculityofMedicine2009"
+Repeated entry---line 7430 of file bibliography.bib
+ : @article{Paternoster1996
+ :                         ,
+I'm skipping whatever remains of this entry
 Warning--to sort, need author or key in 
 Warning--empty author in 
 Warning--empty journal in 
@@ -184,8 +187,9 @@ Warning--empty year in OfHealth
 Warning--empty journal in Pai2011
 Warning--empty journal in PonemonInstitute2012
 Warning--there's a number but no volume in PonemonInstitute2012
+Warning--empty journal in Thurman1984
 Warning--empty institution in OfficeofCivilRights2014
 Warning--empty journal in U.S.DepartmentofHealthandHumanServices
 Warning--empty institution in WorldHealthOrganization2016
 Warning--empty journal in Zafar2009
-(There were 37 error messages)
+(There were 38 error messages)

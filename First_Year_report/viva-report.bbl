@@ -1,4 +1,4 @@
-\begin{thebibliography}{67}
+\begin{thebibliography}{70}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -163,6 +163,10 @@ ENISA.
 \newblock \penalty0 (June):\penalty0 177, 2006.
 \newblock URL
   \url{https://www.enisa.europa.eu/activities/risk-management/current-risk/risk-management-inventory/files/deliverables/risk-management-principles-and-inventories-for-risk-management-risk-assessment-methods-and-tools}.
+
+\bibitem[{Faculity of Medicine}(2009)]{FaculityofMedicine2009}
+King Abdulaziz~University {Faculity of Medicine}.
+\newblock {Internship Training Program}, 2009.
 
 \bibitem[Grindle et~al.(2013)Grindle, Kavathekar, and Wan]{Grindle2013}
 Mark Grindle, Jitendra Kavathekar, and Dadong Wan.
@@ -350,6 +354,15 @@ Eun~Hee Park, Jongwoo Kim, and Young~Soon Park.
 \newblock ISSN 0167-4048.
 \newblock \doi{http://dx.doi.org/10.1016/j.cose.2016.10.011}.
 
+\bibitem[Paternoster and Simpson(1996)]{Paternoster1996}
+Raymond Paternoster and Sally Simpson.
+\newblock {Sanction Threats and Appeals to Morality: Testing a Rational Choice
+  Model of Corporate Crime}.
+\newblock \emph{Law {\&} Society Review}, 30\penalty0 (3):\penalty0 549, 1996.
+\newblock ISSN 00239216.
+\newblock \doi{10.2307/3054128}.
+\newblock URL \url{http://www.jstor.org/stable/3054128?origin=crossref}.
+
 \bibitem[Pfleeger et~al.(2007)Pfleeger, Pfleeger, and
   Margulies]{pfleeger2007security}
 CP~Pfleeger, SL~Pfleeger, and Jonathan Margulies.
@@ -464,6 +477,14 @@ Pei-Lee Teh, Pervaiz~K. Ahmed, and John D'Arcy.
   (1):\penalty0 44--64, 2015.
 \newblock ISSN 1062-7375.
 \newblock \doi{10.4018/jgim.2015010103}.
+
+\bibitem[Thurman(1984)]{Thurman1984}
+Quint~C Thurman.
+\newblock {Deviant Behavior Deviance and the neutralization of moral
+  commitment: An empirical analysis DEVIANCE AND THE NEUTRALIZATION OF MORAL
+  COMMITMENT: AN EMPIRICAL ANALYSIS}.
+\newblock 1984.
+\newblock \doi{10.1080/01639625.1984.9967646}.
 
 \bibitem[Trevino(1992)]{trevino1992experimental}
 Linda~Klebe Trevino.
