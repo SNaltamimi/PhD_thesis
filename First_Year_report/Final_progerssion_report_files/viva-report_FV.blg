@@ -1,0 +1,83 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: viva-report_FV.aux
+The style file: plainnat.bst
+Database file #1: bibl.bib
+Repeated entry---line 4907 of file bibl.bib
+ : @article{WorldHealthOrganization2016
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7085 of file bibl.bib
+ : @article{Bensefia2014
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7120 of file bibl.bib
+ : @article{Care2006
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7136 of file bibl.bib
+ : @article{Safa2015
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7149 of file bibl.bib
+ : @article{Kim2014
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7201 of file bibl.bib
+ : @article{Safa2015
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7215 of file bibl.bib
+ : @article{Morris
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7237 of file bibl.bib
+ : @article{Barlow2013
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7389 of file bibl.bib
+ : @article{Paternoster1996
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7403 of file bibl.bib
+ : @article{Smith2016
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7427 of file bibl.bib
+ : @article{Chen2015
+ :                  ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Barlow2013
+Warning--empty journal in BSI2014
+Warning--there's a number but no volume in BSI2014
+Warning--empty journal in Culnan2016
+Warning--empty journal in Darcy
+Warning--empty year in Darcy
+Warning--empty year in Darcy
+Warning--empty journal in ENISA2006
+Warning--there's a number but no volume in ENISA2006
+Warning--there's a number but no volume in Hinduja2007
+Warning--empty journal in Hsu
+Warning--empty year in Hsu
+Warning--empty year in Hsu
+Warning--empty journal in TheInternationalOrganizationforStandardization2016
+Warning--empty journal in ISO/IEC2014
+Warning--empty year in ISO/IEC
+Warning--empty year in Kamoun
+Warning--empty year in Kamoun
+Warning--empty journal in Kierkegaard2011
+Warning--empty institution in MarketsandMarkets
+Warning--empty year in MarketsandMarkets
+Warning--empty year in MarketsandMarkets
+Warning--empty journal in Morris
+Warning--empty year in Morris
+Warning--empty year in Morris
+Warning--empty year in OfHealth
+Warning--empty journal in Pai2011
+Warning--empty journal in PonemonInstitute2012
+Warning--there's a number but no volume in PonemonInstitute2012
+Warning--empty journal in Smith2016
+Warning--empty journal in Thurman1984
+Warning--empty institution in OfficeofCivilRights2014
+Warning--empty journal in U.S.DepartmentofHealthandHumanServices
+Warning--empty institution in WorldHealthOrganization2016
+Warning--empty journal in Zafar2009
+(There were 11 error messages)
